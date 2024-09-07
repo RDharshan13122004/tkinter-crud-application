@@ -80,10 +80,6 @@ This project is a simple CRUD (Create, Read, Update, Delete) application built u
 - **Error Messages:**
   - If you see validation error messages (e.g., "All fields are required" or "ID must be a number"), ensure that the input meets the specified criteria.
 
-## Screenshots
-
-Include screenshots of the application interface, demonstrating the various features.
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
