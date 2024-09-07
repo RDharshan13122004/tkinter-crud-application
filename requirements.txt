@@ -1,0 +1,3 @@
+Pillow
+tkinter
+sqlite3  
